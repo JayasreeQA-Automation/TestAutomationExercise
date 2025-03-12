@@ -1,0 +1,7 @@
+A robust Selenium WebDriver automation framework using Java, TestNG, and Maven for UI testing.
+Includes POM (Page Object Model) design, data-driven testing, and reporting integration.
+Optimized for cross-browser execution and scalability.
+ highlights:
+✅ Key technologies – Selenium WebDriver, Java, TestNG, Maven
+✅ Framework design – POM (Page Object Model), data-driven testing
+✅ Features – Reporting integration, cross-browser execution, scalability
