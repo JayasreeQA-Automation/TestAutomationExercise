@@ -5,3 +5,23 @@ Optimized for cross-browser execution and scalability.
 ✅ Key technologies – Selenium WebDriver, Java, TestNG, Maven
 ✅ Framework design – POM (Page Object Model), data-driven testing
 ✅ Features – Reporting integration, cross-browser execution, scalability
+
+Test Cases for Genpact Website
+1️⃣ Test Case: Verify Home Page Loads Successfully
+Test ID: GENP-001
+
+Description: Ensure that the home page loads without any errors.
+
+Precondition: User has access to a web browser.
+
+Test Steps:
+
+Open a web browser (Chrome/Edge/Firefox).
+
+Navigate to https://www.genpact.com/.
+
+Observe if the homepage loads successfully.
+
+Expected Result: The home page should load without errors, displaying all elements correctly.
+
+Status: Pass/Fail
