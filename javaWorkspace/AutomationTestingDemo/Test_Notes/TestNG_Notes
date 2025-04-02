@@ -1,0 +1,12 @@
+Importance Points:
+
+1. TestNG is a testing framework developed in the lines of JUnit and NUnit.
+2. TestNG is designed to cover all categories of tests: unit, functional, end-to-end, integration, etc.
+
+Prerequisites: 
+1. Requires JDK 5 or higher.
+
+TestNG Annotation:
+1️.@BeforeSuite (Runs once before everything)- Use case
+Extent Reports :
+ Great for rich HTML reports with visual feedback (e.g., pass/fail status, screenshots).
