@@ -26,7 +26,7 @@ public class BasePageTestNG {
 	@BeforeClass
 	public void setup() {
 		System.out.println("BeforeClass: setUpMethod : Initializing WebDriver...");
-		driver = new ChromeDriver(); // You can use any WebDriver like FirefoxDriver, EdgeDriver, etc.
+		driver = new ChromeDriver(); //I used ChromeDriver and we use any WebDriver like FirefoxDriver, EdgeDriver, etc.
 		driver.get("https://automationexercise.com/");
 		driver.manage().window().maximize();
 	}
